@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: guestbook-cm
 data:
-  MYSQL_IP: "192.168.56.150"
+  MYSQL_IP: "13.124.160.146"
   MYSQL_PORT: "3306"
   MYSQL_DATABASE: "guestbook"
   MYSQL_USER: "root"
